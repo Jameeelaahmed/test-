@@ -1,4 +1,4 @@
-function here() {
+// function here() {
   // document.write("hello jaaaaaaam!");
   // var name= prompt("Enw=ter your name ","enter here ");
   // alert(name);
@@ -15,7 +15,7 @@ function here() {
   // {
   //     alert(i);
   // }
-}
+// }
 
 // * question 1 in HTML CODE
 
